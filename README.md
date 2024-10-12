@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmad-Shqah.
-- 👀 I’m coputer engineering student who is intrested to join software world and web development.
+- 👀 I’m a computer engineering student who is intrested to join software world and web development.
 - i learnt HTML , CSS , JS and bootstrap5.
 - 🌱 I’m currently learning  Angular 17 framwork.
 - 💞️ My next step is Back-end.
